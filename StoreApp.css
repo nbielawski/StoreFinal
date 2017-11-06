@@ -1,0 +1,107 @@
+
+
+#wrapper{
+	text-align: center;
+	background-size: cover;
+	background-image: url("https://static1.squarespace.com/static/59c14158d7bdcedc15842f8e/t/59c8951012abd9f4e1feb37f/1506317591990/lucas-sankey-302618.jpg?format=2500w");
+}
+
+#navBar{
+	background-color: black;
+}
+
+.navBarSocialMedia{
+	float: right;
+	height: 60px;
+	width: 60px;
+	color: red;
+}	
+
+.iHateTerryRady{
+	text-align: center;	
+    font-size: 7em;
+    color: red; 
+   font-family: 'Anton', sans-serif;
+
+}
+
+.terryPic{
+	height:224px;
+	width:50%;
+	text-align: center;
+			
+}
+
+
+#linksBar {
+	display: inline;
+	height: 15%;
+	
+	font-size: 1.75em;
+	color: red;
+	font-weight: bolder;
+	
+}
+
+.contentWrapper{
+	text-align: left;
+	
+}
+
+#About{
+	margin-top: 50px;
+	background-color: white;
+}
+
+#Services{
+	margin-top: 50px;
+	background-color: white;
+}
+
+#servicesPic{
+	height: 595px;
+	width: 593px;
+}
+
+#articles{
+	margin-top: 50px;
+	background-color: white;
+}
+
+#articlesPic{
+	height: 595px;
+	width: 593px;
+	
+
+}
+
+#contactInfo{
+	margin-top: 50px;
+	background-color: white;
+}
+
+#contactPic{
+	height: 595px;
+	width: 593px;
+}
+
+
+#sponsors{
+
+	margin-top: 50px;
+	text-align: center;
+	background-color: black;
+}
+.sponsorImage{
+	height: 15em;
+
+	width: 15em;
+	display: inline;
+}
+
+ul{
+	list-style-type: none;
+}
+.row{
+	height: 30%;
+}
